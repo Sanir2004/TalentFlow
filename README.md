@@ -33,6 +33,7 @@ npm install   # or yarn install
 
 # Run development server
 npm run dev   # or yarn dev
+```
 
 Open http://localhost:5173 (default Vite port) to view the app.
 
