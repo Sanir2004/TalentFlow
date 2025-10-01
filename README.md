@@ -1,5 +1,3 @@
-I checked your repo ✅. Here’s an updated README.md you can directly use:
-
 # TalentFlow
 
 TalentFlow is a mini hiring platform that connects employers with job seekers through an intuitive frontend interface. It enables organizations to post job listings and candidates to browse and apply for positions, streamlining the hiring process.
