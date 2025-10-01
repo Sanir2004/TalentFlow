@@ -1,6 +1,6 @@
 # TalentFlow
 
-TalentFlow is a mini hiring platform that connects employers with job seekers through an intuitive frontend interface. It enables organizations to post job listings and candidates to browse and apply for positions, streamlining the hiring process.
+TalentFlow is a mini hiring platform that connects employers with job seekers through an intuitive frontend interface. It enables organizations to post job listings and candidates to browse and apply [...]
 
 ## 🚀 Features
 
@@ -39,7 +39,7 @@ Open http://localhost:5173 (default Vite port) to view the app.
 
 🌐 Live Demo
 
-Check out the live version here: TalentFlow Demo
+Check out the live version here: [TalentFlow Demo](https://scintillating-naiad-1f1332.netlify.app/)
 
 🤝 Contributing
 
